@@ -1,3 +1,10 @@
+> **This is a copy kept for [NASBridge](https://github.com/J7mbo/nasbridge-ps5).**
+> ps5-homebrew-ui is by [BlackBearReloaded](https://github.com/blackbearreloaded),
+> licensed under GPL-3.0-or-later. The original repository is no longer
+> publicly available, so this copy keeps its source (with full history) and
+> the ps5-opengl SDK it builds with available. The only change: the SDK is
+> fetched from [J7mbo/ps5-opengl](https://github.com/J7mbo/ps5-opengl).
+
 <div align="center">
 
 # ps5-homebrew-ui
